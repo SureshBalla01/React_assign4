@@ -1,0 +1,12 @@
+.header1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(11, 8, 91);
+    color: white;
+    width: 25%;
+    margin-top: 20px;
+    border-radius: 2px;
+    margin-left: 40%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
